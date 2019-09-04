@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 Mola Sport" group-title="Sports", http://cdn01.mola.tv/hls/live/2006564/event_3/2.m3u8
+http://cdn01.mola.tv/hls/live/2006564/event_3/2.m3u8
+
+#EXTINF:-1 Mola Sport 2" group-title="Sports", http://cdn01.mola.tv/hls/live/2006562/event_1/2.m3u8
+http://cdn01.mola.tv/hls/live/2006562/event_1/2.m3u8
+
+#EXTINF:-1 Mola Sport 3" group-title="Sport", http://cdn01.mola.tv/hls/live/2006564/event_3/1.m3u8
+http://cdn01.mola.tv/hls/live/2006564/event_3/1.m3u8
+
+#EXTINF:-1 Rtm 2" group-title="Sports", https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
+
+#EXTINF:-1 Rtm 1" group-title="Sports", https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+
+#EXTINF:-1 Rtm 3" group-title="Sports", https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+
+#EXTINF:-1 Mola Sport 4" group-title="Sport", https://cdn01.mola.tv/hls/live/2006564/event_3/2.m3u8
+https://cdn01.mola.tv/hls/live/2006564/event_3/2.m3u8
+
+#EXTINF:-1 Mola Sport 5" group-title="Sport", https://cdn01.mola.tv/hls/live/2006562/event_1/2.m3u8
+https://cdn01.mola.tv/hls/live/2006562/event_1/2.m3u8
+
+#EXTINF:-1 Mola Tv 1" group-title="Sports", https://cdn01.mola.tv/hls/live/2006564/event_3/1.m3u8
+https://cdn01.mola.tv/hls/live/2006564/event_3/1.m3u8
+
+#EXTINF:-1 Mola Tv 2" group-title="Sports", https://cdn01.mola.tv/hls/live/2006564/event_3/2.m3u8
+https://cdn01.mola.tv/hls/live/2006564/event_3/2.m3u8
+
+#EXTINF:-1 Mola Tv 3" group-title="Sports", https://cdn01.mola.tv/hls/live/2006562/event_1/2.m3u8
+https://cdn01.mola.tv/hls/live/2006562/event_1/2.m3u8
