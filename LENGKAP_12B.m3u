@@ -616,6 +616,69 @@ http://27.254.130.64/live02/6.m3u8?p=iptv
 #EXTINF:0 tvg-logo="http://tv-online.in/wp-content/uploads/2014/10/You-Channel-live.gif" group-title="Thailand (?????????)",You Channel
 http://stream.rs.co.th/you-hi/index.m3u8
 
+############################### RELIGI ############################################
+#EXTINF:0 tvg-id="ext" group-title="Religi",NABAWI TV
+http://cybervision.us.to:8989/live/iptvku/iptvku/190.ts
+#EXTINF:0 tvg-id="ext" group-title="Religi",MAKKAH TV
+http://cybervision.us.to:8989/live/iptvku/iptvku/191.ts
+#EXTINF:0 tvg-id="ext" group-title="Religi",MADINAH TV
+http://cybervision.us.to:8989/live/iptvku/iptvku/192.ts
+#EXTINF:0 tvg-id="ext" group-title="Religi",TAHFIDZ TV
+http://cybervision.us.to:8989/live/iptvku/iptvku/304.ts
+#EXTINF:0 tvg-id="ext" group-title="Religi",TV9 NUSANTARA
+http://cybervision.us.to:8989/live/iptvku/iptvku/305.ts
+#EXTINF:0 tvg-id="ext" group-title="Religi",RODJA TV
+http://cybervision.us.to:8989/live/iptvku/iptvku/306.ts
+#EXTINF:0 tvg-id="ext" group-title="Religi",NU CHANNEL
+http://cybervision.us.to:8989/live/iptvku/iptvku/307.ts
+#EXTINF:0 tvg-id="ext" group-title="Religi",DMI TV
+http://cybervision.us.to:8989/live/iptvku/iptvku/308.ts
+
+############################### MUSIC ############################################
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",POP MUSIK
+http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",MALEO
+http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",MK TV
+http://stream1.ninmedia.tv/live/xmedia-mktv.stream_nin/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",DANGDUTZ
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF:0 tvg-id="MTV.uk" group-title="MUSIC",MTV SD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0 tvg-id="MTV.uk" group-title="MUSIC",MTV HD
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",MiX Music
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",TMusic
+http://118.97.167.8/jhos/allegro.m3u8?stime=20180828230000&etime=20180829000000&encoded=0ccbf73b1c337c27949af
+#EXTINF:0 tvg-id="zoom" group-title="MUSIC",ZOOM
+http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",XLITE MUSIC
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",MUSIC CHOICE
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",Music Choice | HD
+https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",MC Music Choice
+http://tvpremiumhd.club/lista-gratuita/green/mcmusicchoice.m3u8
+#EXTINF:0 tvg-id="musicAL.al" group-title="MUSIC",Hit TV | SD
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",TOP Latino
+http://tvpremiumhd.club/lista-gratuita/green/toplatino.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",KEENG MUSIC
+http://125.235.29.16/livetv/keeng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",CALIFORNIA MUSIC CHANNEL
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:0 tvg-id="musicAL.al" group-title="MUSIC",ONE
+http://rtmp.one.by:1300
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",Dangdutz
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
 ############################### SPORT ############################################
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/6jl2zmzkvfozsui/seagames_ch1.png?dl=0" group-title="Sport", Sea Games mncsport
