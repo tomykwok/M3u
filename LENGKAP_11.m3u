@@ -1468,6 +1468,6 @@ http://rtmp.one.by:1300
 #EXTINF:0 tvg-id="ext" group-title="MUSIC",Dangdutz
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 
-http:/ #EXTINF:0 tvg-id="ext" group-title="MUSIC",Hits
-/csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:0 tvg-id="ext" group-title="MUSIC",Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
