@@ -82,6 +82,8 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MOVIE",CELESTIAL MOVIES ID
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/cc/celestial_movies_ph.png" group-title="MyNet MOVIES",CELESTIAL MOVIES-2 
+http://rr2.dens.tv/s/s33/index1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MOVIE",THRILL TV ID
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MOVIE",JGO
